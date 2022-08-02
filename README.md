@@ -1,7 +1,7 @@
 This project is a python project project that uses the turtle library, with the concept of OOP and file system management.
 There are several files in the project folder. The project is properly modularized.
 
-The project is wel document with comments.
+The project is well documented with understandable comments.
 
 FILES:
 * data.txt: this file keeps records of the highest score for every game played.
